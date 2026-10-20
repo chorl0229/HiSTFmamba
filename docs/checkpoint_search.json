@@ -1,0 +1,1045 @@
+[
+  {
+    "path": "third_new/light_new/logs/epoch=168.ckpt",
+    "bytes": 299038421,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_09-10-57/checkpoints/epoch=010.ckpt",
+    "bytes": 432281271,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_09-10-57/checkpoints/last.ckpt",
+    "bytes": 432281271,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_09-10-57/checkpoints/epoch=007.ckpt",
+    "bytes": 432281079,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_09-10-57/checkpoints/epoch=005.ckpt",
+    "bytes": 432281079,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_09-10-57/checkpoints/epoch=006.ckpt",
+    "bytes": 432281079,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_09-10-57/checkpoints/epoch=004.ckpt",
+    "bytes": 432281079,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-12_00-08-04/checkpoints/epoch=239.ckpt",
+    "bytes": 333512097,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-12_00-08-04/checkpoints/epoch=136.ckpt",
+    "bytes": 333512097,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-12_00-08-04/checkpoints/last.ckpt",
+    "bytes": 333512097,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-12_00-08-04/checkpoints/epoch=094.ckpt",
+    "bytes": 333512033,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-12_00-08-04/checkpoints/epoch=110.ckpt",
+    "bytes": 333512033,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-12_00-08-04/checkpoints/epoch=125.ckpt",
+    "bytes": 333512033,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-11_23-33-12/checkpoints/last.ckpt",
+    "bytes": 268635760,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-11_23-33-12/checkpoints/epoch=001.ckpt",
+    "bytes": 268635313,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-11_23-33-12/checkpoints/epoch=002.ckpt",
+    "bytes": 268635760,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-11_23-33-12/checkpoints/epoch=000.ckpt",
+    "bytes": 268634930,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-05-04_03-09-03/checkpoints/last.ckpt",
+    "bytes": 230570263,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-05-04_03-09-03/checkpoints/epoch=001.ckpt",
+    "bytes": 230570263,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-05-04_03-09-03/checkpoints/epoch=000.ckpt",
+    "bytes": 230569752,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-16_22-30-48/checkpoints/last.ckpt",
+    "bytes": 299038997,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-16_22-30-48/checkpoints/epoch=349.ckpt",
+    "bytes": 299038997,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-16_22-30-48/checkpoints/epoch=298.ckpt",
+    "bytes": 299038997,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-16_22-30-48/checkpoints/epoch=378.ckpt",
+    "bytes": 299038997,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-16_22-30-48/checkpoints/epoch=369.ckpt",
+    "bytes": 299038997,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-16_22-30-48/checkpoints/epoch=376.ckpt",
+    "bytes": 299038997,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/T2M/checkpoints/epoch=064.ckpt",
+    "bytes": 299038421,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/T2M/checkpoints/last.ckpt",
+    "bytes": 299038485,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/T2M/checkpoints/epoch=171.ckpt",
+    "bytes": 299038485,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/T2M/checkpoints/epoch=086.ckpt",
+    "bytes": 299038421,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/T2M/checkpoints/epoch=182.ckpt",
+    "bytes": 299038485,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/T2M/checkpoints/epoch=081.ckpt",
+    "bytes": 299038421,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_10-25-40/checkpoints/epoch=104.ckpt",
+    "bytes": 303035245,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_10-25-40/checkpoints/epoch=085.ckpt",
+    "bytes": 303035245,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_10-25-40/checkpoints/last.ckpt",
+    "bytes": 303035245,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_10-25-40/checkpoints/epoch=089.ckpt",
+    "bytes": 303035245,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_10-25-40/checkpoints/epoch=123.ckpt",
+    "bytes": 303035245,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-04_10-25-40/checkpoints/epoch=130.ckpt",
+    "bytes": 303035245,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-28_14-14-31/checkpoints/epoch=132.ckpt",
+    "bytes": 332645123,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-28_14-14-31/checkpoints/epoch=141.ckpt",
+    "bytes": 332645123,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-28_14-14-31/checkpoints/epoch=140.ckpt",
+    "bytes": 332645123,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-28_14-14-31/checkpoints/epoch=134.ckpt",
+    "bytes": 332645123,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-28_14-14-31/checkpoints/last.ckpt",
+    "bytes": 332645123,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-28_14-14-31/checkpoints/epoch=107.ckpt",
+    "bytes": 332645123,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-06_03-55-53/checkpoints/epoch=132.ckpt",
+    "bytes": 299038549,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-06_03-55-53/checkpoints/epoch=234.ckpt",
+    "bytes": 299038613,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-06_03-55-53/checkpoints/epoch=211.ckpt",
+    "bytes": 299038613,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-06_03-55-53/checkpoints/last.ckpt",
+    "bytes": 299038613,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-06_03-55-53/checkpoints/epoch=149.ckpt",
+    "bytes": 299038613,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-06_03-55-53/checkpoints/epoch=214.ckpt",
+    "bytes": 299038613,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-05_00-48-25/checkpoints/epoch=191.ckpt",
+    "bytes": 311685797,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-05_00-48-25/checkpoints/epoch=195.ckpt",
+    "bytes": 311685797,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-05_00-48-25/checkpoints/last.ckpt",
+    "bytes": 311685797,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-05_00-48-25/checkpoints/epoch=137.ckpt",
+    "bytes": 311685797,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-05_00-48-25/checkpoints/epoch=312.ckpt",
+    "bytes": 311685797,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-05_00-48-25/checkpoints/epoch=193.ckpt",
+    "bytes": 311685797,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-02_12-57-35/checkpoints/last.ckpt",
+    "bytes": 246459925,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-02_12-57-35/checkpoints/epoch=341.ckpt",
+    "bytes": 246459925,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-02_12-57-35/checkpoints/epoch=339.ckpt",
+    "bytes": 246459925,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-02_12-57-35/checkpoints/epoch=285.ckpt",
+    "bytes": 246459925,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-02_12-57-35/checkpoints/epoch=251.ckpt",
+    "bytes": 246459925,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-09-02_12-57-35/checkpoints/epoch=170.ckpt",
+    "bytes": 246459925,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-08_13-43-00/checkpoints/epoch=181.ckpt",
+    "bytes": 357988449,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-08_13-43-00/checkpoints/last.ckpt",
+    "bytes": 357988449,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-08_13-43-00/checkpoints/epoch=142.ckpt",
+    "bytes": 357988449,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-08_13-43-00/checkpoints/epoch=144.ckpt",
+    "bytes": 357988449,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-08_13-43-00/checkpoints/epoch=190.ckpt",
+    "bytes": 357988449,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-08_13-43-00/checkpoints/epoch=200.ckpt",
+    "bytes": 357988449,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-10_00-45-59/checkpoints/epoch=205.ckpt",
+    "bytes": 359852065,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-10_00-45-59/checkpoints/epoch=310.ckpt",
+    "bytes": 359852065,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-10_00-45-59/checkpoints/epoch=237.ckpt",
+    "bytes": 359852065,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-10_00-45-59/checkpoints/last.ckpt",
+    "bytes": 359852065,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-10_00-45-59/checkpoints/epoch=243.ckpt",
+    "bytes": 359852065,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-04-10_00-45-59/checkpoints/epoch=271.ckpt",
+    "bytes": 359852065,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/KIT/checkpoints/last.ckpt",
+    "bytes": 230571285,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/KIT/checkpoints/epoch=472.ckpt",
+    "bytes": 230571285,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/KIT/checkpoints/epoch=741.ckpt",
+    "bytes": 230571285,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/KIT/checkpoints/epoch=416.ckpt",
+    "bytes": 230571285,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/KIT/checkpoints/epoch=572.ckpt",
+    "bytes": 230571285,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/KIT/checkpoints/epoch=461.ckpt",
+    "bytes": 230571285,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-29_14-45-03/checkpoints/epoch=294.ckpt",
+    "bytes": 374928437,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-29_14-45-03/checkpoints/epoch=279.ckpt",
+    "bytes": 374928437,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-29_14-45-03/checkpoints/last.ckpt",
+    "bytes": 374928437,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-29_14-45-03/checkpoints/epoch=248.ckpt",
+    "bytes": 374928437,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-29_14-45-03/checkpoints/epoch=293.ckpt",
+    "bytes": 374928437,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "third_new/light_new/logs/light/runs/2026-03-29_14-45-03/checkpoints/epoch=276.ckpt",
+    "bytes": 374928437,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2026NeurIPS_DyCoPart/checkpoints/hml3d_last_old.ckpt",
+    "bytes": 299038485,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2026NeurIPS_DyCoPart/checkpoints/hml3d_last.ckpt",
+    "bytes": 299038485,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2026NeurIPS_DyCoPart/checkpoints/kit_last.ckpt",
+    "bytes": 230571285,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2026NeurIPS_DyCoPart/checkpoints/hml3d_best.ckpt",
+    "bytes": 299038485,
+    "has_dsfm": false,
+    "has_ec_dynapart": true,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth10/runs/2026-07-17_08-22-44/checkpoints/epoch=272.ckpt",
+    "bytes": 379994954,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth10/runs/2026-07-17_08-22-44/checkpoints/epoch=279.ckpt",
+    "bytes": 379994954,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth10/runs/2026-07-17_08-22-44/checkpoints/epoch=168.ckpt",
+    "bytes": 379994954,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth10/runs/2026-07-17_08-22-44/checkpoints/last.ckpt",
+    "bytes": 379994954,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth10/runs/2026-07-17_08-22-44/checkpoints/epoch=172.ckpt",
+    "bytes": 379994954,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth10/runs/2026-07-17_08-22-44/checkpoints/epoch=295.ckpt",
+    "bytes": 379994954,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/light/runs/2026-07-04_07-49-12/checkpoints/epoch=211.ckpt",
+    "bytes": 362278594,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/light/runs/2026-07-04_07-49-12/checkpoints/last.ckpt",
+    "bytes": 362278594,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/light/runs/2026-07-04_07-49-12/checkpoints/epoch=091.ckpt",
+    "bytes": 362278594,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/light/runs/2026-07-04_07-49-12/checkpoints/epoch=187.ckpt",
+    "bytes": 362278594,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/light/runs/2026-07-04_07-49-12/checkpoints/epoch=151.ckpt",
+    "bytes": 362278594,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/light/runs/2026-07-04_07-49-12/checkpoints/epoch=200.ckpt",
+    "bytes": 362278594,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6/runs/2026-07-15_12-05-56/checkpoints/last.ckpt",
+    "bytes": 242161110,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6/runs/2026-07-15_12-05-56/checkpoints/epoch=001.ckpt",
+    "bytes": 242161110,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6/runs/2026-07-15_12-05-56/checkpoints/epoch=000.ckpt",
+    "bytes": 242160600,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_08-12-21/checkpoints/epoch=140.ckpt",
+    "bytes": 311078306,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_08-12-21/checkpoints/last.ckpt",
+    "bytes": 311078306,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_08-12-21/checkpoints/epoch=086.ckpt",
+    "bytes": 311078242,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_08-12-21/checkpoints/epoch=185.ckpt",
+    "bytes": 311078306,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_08-12-21/checkpoints/epoch=096.ckpt",
+    "bytes": 311078242,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_08-12-21/checkpoints/epoch=201.ckpt",
+    "bytes": 311078306,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_02-14-31/checkpoints/last.ckpt",
+    "bytes": 311076904,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth8/runs/2026-07-13_02-14-31/checkpoints/epoch=000.ckpt",
+    "bytes": 311076840,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_gpu23_defaultval/runs/2026-07-15_12-30-43/checkpoints/last.ckpt",
+    "bytes": 242162130,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_gpu23_defaultval/runs/2026-07-15_12-30-43/checkpoints/epoch=019.ckpt",
+    "bytes": 242162130,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_gpu23_defaultval/runs/2026-07-15_12-30-43/checkpoints/epoch=014.ckpt",
+    "bytes": 242162130,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_gpu23_defaultval/runs/2026-07-15_12-30-43/checkpoints/epoch=020.ckpt",
+    "bytes": 242162130,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_gpu23_defaultval/runs/2026-07-15_12-30-43/checkpoints/epoch=018.ckpt",
+    "bytes": 242162130,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_gpu23_defaultval/runs/2026-07-15_12-30-43/checkpoints/epoch=021.ckpt",
+    "bytes": 242162130,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_val64/runs/2026-07-15_22-49-30/checkpoints/epoch=233.ckpt",
+    "bytes": 242162066,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_val64/runs/2026-07-15_22-49-30/checkpoints/last.ckpt",
+    "bytes": 242162066,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_val64/runs/2026-07-15_22-49-30/checkpoints/epoch=187.ckpt",
+    "bytes": 242162066,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_val64/runs/2026-07-15_22-49-30/checkpoints/epoch=160.ckpt",
+    "bytes": 242162066,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_val64/runs/2026-07-15_22-49-30/checkpoints/epoch=145.ckpt",
+    "bytes": 242162066,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_T2M/logs/hml3d_depth6_val64/runs/2026-07-15_22-49-30/checkpoints/epoch=210.ckpt",
+    "bytes": 242162066,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": false
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-26_17-20-38/checkpoints/epoch=252.ckpt",
+    "bytes": 311932734,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-26_17-20-38/checkpoints/epoch=168.ckpt",
+    "bytes": 311932734,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-26_17-20-38/checkpoints/last.ckpt",
+    "bytes": 311932734,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-26_17-20-38/checkpoints/epoch=185.ckpt",
+    "bytes": 311932734,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-26_17-20-38/checkpoints/epoch=075.ckpt",
+    "bytes": 311932734,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-26_17-20-38/checkpoints/epoch=129.ckpt",
+    "bytes": 311932734,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-25_10-36-10/checkpoints/epoch=181.ckpt",
+    "bytes": 303055414,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-25_10-36-10/checkpoints/last.ckpt",
+    "bytes": 303055414,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-25_10-36-10/checkpoints/epoch=171.ckpt",
+    "bytes": 303055414,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-25_10-36-10/checkpoints/epoch=162.ckpt",
+    "bytes": 303055414,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-25_10-36-10/checkpoints/epoch=165.ckpt",
+    "bytes": 303055414,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-25_10-36-10/checkpoints/epoch=127.ckpt",
+    "bytes": 303055414,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-27_19-20-33/checkpoints/epoch=109.ckpt",
+    "bytes": 219753883,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-27_19-20-33/checkpoints/epoch=161.ckpt",
+    "bytes": 219753947,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-27_19-20-33/checkpoints/last.ckpt",
+    "bytes": 219753947,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-27_19-20-33/checkpoints/epoch=149.ckpt",
+    "bytes": 219753947,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-27_19-20-33/checkpoints/epoch=107.ckpt",
+    "bytes": 219753883,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-27_19-20-33/checkpoints/epoch=081.ckpt",
+    "bytes": 219501403,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-28_08-41-02/checkpoints/epoch=103.ckpt",
+    "bytes": 387726606,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-28_08-41-02/checkpoints/last.ckpt",
+    "bytes": 387726670,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-28_08-41-02/checkpoints/epoch=143.ckpt",
+    "bytes": 387726670,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-28_08-41-02/checkpoints/epoch=093.ckpt",
+    "bytes": 387726606,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-28_08-41-02/checkpoints/epoch=116.ckpt",
+    "bytes": 387726606,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  },
+  {
+    "path": "T2M/2027AAAI_HyPole/logs/hml3d_hypole/runs/2026-07-28_08-41-02/checkpoints/epoch=129.ckpt",
+    "bytes": 387726606,
+    "has_dsfm": false,
+    "has_ec_dynapart": false,
+    "has_hypole": true
+  }
+]

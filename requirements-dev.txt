@@ -1,0 +1,2 @@
+ruff==0.14.2
+cffconvert==2.0.0

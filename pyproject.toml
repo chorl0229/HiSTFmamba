@@ -1,0 +1,7 @@
+[tool.ruff]
+target-version = "py39"
+line-length = 100
+extend-exclude = ["third_party/**", "data/**", "deps/**", "checkpoints/**", "weights/**"]
+
+[tool.ruff.lint]
+select = ["E9", "F821", "F822", "F823"]

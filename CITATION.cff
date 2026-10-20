@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the conference paper below."
+type: software
+title: "Linear Multi-granular Body Modeling for Text-Driven Motion Generation — Code"
+license: MIT
+authors:
+  - family-names: "Zhan"
+    given-names: "Xingzu"
+  - family-names: "Zhang"
+    given-names: "Genpei"
+  - family-names: "Xie"
+    given-names: "Chen"
+  - family-names: "Chen"
+    given-names: "Honghang"
+  - family-names: "Sun"
+    given-names: "Haoran"
+  - family-names: "Mai"
+    given-names: "Xiaochun"
+preferred-citation:
+  type: conference-paper
+  title: "Linear Multi-granular Body Modeling for Text-Driven Motion Generation"
+  authors:
+    - family-names: "Zhan"
+      given-names: "Xingzu"
+    - family-names: "Zhang"
+      given-names: "Genpei"
+    - family-names: "Xie"
+      given-names: "Chen"
+    - family-names: "Chen"
+      given-names: "Honghang"
+    - family-names: "Sun"
+      given-names: "Haoran"
+    - family-names: "Mai"
+      given-names: "Xiaochun"
+  collection-title: "2026 IEEE International Conference on Multimedia and Expo (ICME)"
+  year: 2026
+  url: "https://arxiv.org/abs/2503.06897"
+  notes: "Accepted at ICME 2026"
+repository-code: "https://github.com/chorl0229/HiSTFmamba"

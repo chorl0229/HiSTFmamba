@@ -1,0 +1,42 @@
+{
+  "name": "HiSTF Mamba",
+  "title": "Linear Multi-granular Body Modeling for Text-Driven Motion Generation",
+  "authors": [
+    {
+      "given": "Xingzu",
+      "family": "Zhan"
+    },
+    {
+      "given": "Genpei",
+      "family": "Zhang"
+    },
+    {
+      "given": "Chen",
+      "family": "Xie"
+    },
+    {
+      "given": "Honghang",
+      "family": "Chen"
+    },
+    {
+      "given": "Haoran",
+      "family": "Sun"
+    },
+    {
+      "given": "Xiaochun",
+      "family": "Mai"
+    }
+  ],
+  "venue": "ICME 2026",
+  "booktitle": "2026 IEEE International Conference on Multimedia and Expo (ICME)",
+  "year": 2026,
+  "status": "accepted",
+  "arxiv": "2503.06897",
+  "doi": null,
+  "bibtex_key": "zhan2026histfmamba",
+  "verified_on": "2026-10-20",
+  "evidence": [
+    "https://arxiv.org/abs/2503.06897"
+  ],
+  "repository_url": "https://github.com/chorl0229/HiSTFmamba"
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "dataset": "hml3d",
+    "input_dim": 263,
+    "parameters": 15534923,
+    "state_entries": 341,
+    "temporal_blocks": 6
+  },
+  {
+    "dataset": "kit",
+    "input_dim": 251,
+    "parameters": 15473375,
+    "state_entries": 341,
+    "temporal_blocks": 6
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "archive": "StableMoFusion-master_key_periodicity.tar.gz",
+  "weights": [
+    {
+      "file": "StableMoFusion-master_key_periodicity/UnderPressure/dataset/S1_HoppingLeftFootRightFoot.pth",
+      "bytes": 3885767
+    },
+    {
+      "file": "StableMoFusion-master_key_periodicity/checkpoints/t2m/t2m_condunet1d/model/latest.tar",
+      "bytes": 1093771175
+    },
+    {
+      "file": "StableMoFusion-master_key_periodicity/data/pretrained_models/kit/text_mot_match/model/finest.tar",
+      "bytes": 245481907
+    },
+    {
+      "file": "StableMoFusion-master_key_periodicity/data/pretrained_models/t2m/text_mot_match/model/finest.tar",
+      "bytes": 245580211
+    },
+    {
+      "file": "StableMoFusion-master_key_periodicity/data/pretrained_models/t2m/length_est_bigru/model/latest.tar",
+      "bytes": 48133833
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+name: Bug or reproduction report
+description: Report a failing command or a reproducibility problem.
+body:
+  - type: textarea
+    id: command
+    attributes:
+      label: Exact command and observed behavior
+      description: Include the expected behavior and full traceback.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Python, PyTorch, CUDA toolkit, driver, GPU, and repository revision.
+    validations:
+      required: true
+  - type: textarea
+    id: artifacts
+    attributes:
+      label: Data, checkpoint, and evaluation settings
+      description: Dataset and split, checkpoint SHA-256, seed, sampler, steps, precision, and replications where applicable.
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics
+      description: Output of tools/check_environment.py or tools/maintain.py, if applicable.

@@ -1,0 +1,1416 @@
+{
+  "method": "HiSTFmamba",
+  "source_files_unchanged": true,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "source": "Added during release preparation",
+      "release_sha256": "436b78647aff27a371c787d98125582e5b10e15272f5390ef51fdc4457cb99c4",
+      "bytes": 59
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+      "source": "Added during release preparation",
+      "release_sha256": "5993986fad890fd7fd5f333966a9681acc2584e985d80d018abd08196f49eff4",
+      "bytes": 931
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "source": "Added during release preparation",
+      "release_sha256": "76b78cdee872383a19d1cd79d74915f710d7d45f7b99b35797abc99421c7b12b",
+      "bytes": 356
+    },
+    {
+      "path": ".github/workflows/checks.yml",
+      "source": "Added during release preparation",
+      "release_sha256": "1d2a3b85b9c7d399046c98537465ee1b4e1e4d0fb2f8f2519809588334c38e36",
+      "bytes": 1009
+    },
+    {
+      "path": ".gitignore",
+      "source": "Added during release preparation",
+      "release_sha256": "1ee407e328cb123db6dab7433052666413a6c0f77522e97d16205ec853343fe8",
+      "bytes": 291
+    },
+    {
+      "path": ".project-root",
+      "source": "2026ICME_HiSTF_Mamba/.project-root",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "43c211636d1d34e733a094ab0b90b61b0210e955b51a4feacbc1708d3ed260f5",
+      "release_sha256": "43c211636d1d34e733a094ab0b90b61b0210e955b51a4feacbc1708d3ed260f5",
+      "bytes": 81
+    },
+    {
+      "path": "CITATION.bib",
+      "source": "Added during release preparation",
+      "release_sha256": "51863efe9b5c8392e4a8e515be086ef5bc589184118cb5a85498aba0db673492",
+      "bytes": 408
+    },
+    {
+      "path": "CITATION.cff",
+      "source": "Added during release preparation",
+      "release_sha256": "6484bdd41b1a4906c6bf64d13b8b4f5a695fe0fda9a7859e14847c9b98d3dc76",
+      "bytes": 1224
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "source": "Added during release preparation",
+      "release_sha256": "e5ab04ffd11ff6fd05df10152a6dfe3b11c0ad2687e49d60593e44d5947c4e3b",
+      "bytes": 2073
+    },
+    {
+      "path": "LICENSE",
+      "source": "Added during release preparation",
+      "release_sha256": "e17318261c0a65a2f3e73f4d8ad39fd35d85148b6e1f46c9641ab1665530e0c4",
+      "bytes": 1122
+    },
+    {
+      "path": "MODEL_CARD.md",
+      "source": "Added during release preparation",
+      "release_sha256": "231020c0481a493a8772c64ee58181a980afafc17ef4a4b70f6fde8a67272da3",
+      "bytes": 2303
+    },
+    {
+      "path": "README.md",
+      "source": "Added during release preparation",
+      "release_sha256": "cad0a191b3477fbded03160c2c069c97ce4a7c5c87a28e557cc3b7006fcff1c1",
+      "bytes": 4709
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "source": "Added during release preparation",
+      "release_sha256": "6f3fbb3af3439ec9c561ac3b568f859ce7020ff6650d2f2390c97d7935c18820",
+      "bytes": 1746
+    },
+    {
+      "path": "assets/architecture.jpeg",
+      "source": "Added during release preparation",
+      "release_sha256": "6be9c8ae78293b796ddd31ea9be4bd3b9ec150e4ca8b0b5909a6c54d0a43602c",
+      "bytes": 175060
+    },
+    {
+      "path": "configs/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/configs/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "40afe33e9461a043b773aa939b3ec32715d0031bc64114839ffc1607af407fa8",
+      "release_sha256": "40afe33e9461a043b773aa939b3ec32715d0031bc64114839ffc1607af407fa8",
+      "bytes": 81
+    },
+    {
+      "path": "configs/callbacks/default.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/callbacks/default.yaml",
+      "source_mtime_utc": "2026-07-03T08:30:08.265019+00:00",
+      "source_sha256": "a71361a79acb2f9262fabf5d6a8b6e22fb7bbedf649ab575c9a41402ba170f24",
+      "release_sha256": "a71361a79acb2f9262fabf5d6a8b6e22fb7bbedf649ab575c9a41402ba170f24",
+      "bytes": 321
+    },
+    {
+      "path": "configs/callbacks/early_stopping.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/callbacks/early_stopping.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "fd7a2295c72ce3ac808536837a1a34e4ad46a04a4eabd24cb55ae0ac1eda7f74",
+      "release_sha256": "fd7a2295c72ce3ac808536837a1a34e4ad46a04a4eabd24cb55ae0ac1eda7f74",
+      "bytes": 1116
+    },
+    {
+      "path": "configs/callbacks/model_checkpoint/default.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/callbacks/model_checkpoint/default.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "96c25516709a31d4f0dacc7e31baa08e4a9d6d62f635eab9cf57df956649d2c7",
+      "release_sha256": "96c25516709a31d4f0dacc7e31baa08e4a9d6d62f635eab9cf57df956649d2c7",
+      "bytes": 1108
+    },
+    {
+      "path": "configs/callbacks/model_checkpoint/t2m.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/callbacks/model_checkpoint/t2m.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "f4b13f9fb4f2f4198d9e10be2b46927bdadd144f471bb3958c6718dbec295e08",
+      "release_sha256": "87154549a3dc522ffdd01ab3cf2749406a231c4c7682f573cafca0177b585f93",
+      "bytes": 234
+    },
+    {
+      "path": "configs/callbacks/model_summary.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/callbacks/model_summary.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "7c62f89ae537575f2f22aa2c646710c00105b14d38b6d5313f42dd631607788d",
+      "release_sha256": "7c62f89ae537575f2f22aa2c646710c00105b14d38b6d5313f42dd631607788d",
+      "bytes": 252
+    },
+    {
+      "path": "configs/callbacks/none.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/callbacks/none.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "bytes": 1
+    },
+    {
+      "path": "configs/callbacks/rich_progress_bar.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/callbacks/rich_progress_bar.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "922ed36015c64efc9442be737a3eeec0f15589a82fa8d3953c4f800fcb5c6d83",
+      "release_sha256": "922ed36015c64efc9442be737a3eeec0f15589a82fa8d3953c4f800fcb5c6d83",
+      "bytes": 172
+    },
+    {
+      "path": "configs/data/hml3d_light_final.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/data/hml3d_light_final.yaml",
+      "source_mtime_utc": "2026-01-21T16:51:34.171187+00:00",
+      "source_sha256": "d5d2c26121a9a60ffd1e96c784dbba37fa486086d95219cc9144086602a41b18",
+      "release_sha256": "0765e96f7bbe457d47f23627ad8da399b270a6e132651a4c34d09f894cd7621a",
+      "bytes": 305
+    },
+    {
+      "path": "configs/data/kit_light_final.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/data/kit_light_final.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "22f8f711cec450795e0aaa1f102c3d27dadea6e19c8b0f82957af81b4ca85968",
+      "release_sha256": "2a4141055c8a8627e20fac1d1630e3992c32f5b3fb23f495def17238befb97c7",
+      "bytes": 303
+    },
+    {
+      "path": "configs/eval.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/eval.yaml",
+      "source_mtime_utc": "2026-07-03T08:30:09.324049+00:00",
+      "source_sha256": "c756798784e0bc8d032369f3710177b95669df5873df440441bf22bd4181cc50",
+      "release_sha256": "c756798784e0bc8d032369f3710177b95669df5873df440441bf22bd4181cc50",
+      "bytes": 373
+    },
+    {
+      "path": "configs/extras/default.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/extras/default.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "7bb741898d2bfd2532f120bbf61e64d9edbf2becb4caaa5721a412398b13ab95",
+      "release_sha256": "7bb741898d2bfd2532f120bbf61e64d9edbf2becb4caaa5721a412398b13ab95",
+      "bytes": 232
+    },
+    {
+      "path": "configs/hydra/default.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/hydra/default.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "aeb4629dafd1617a3d4a3a14375a27223dd80b005a16cbf1cb8874900b5cf4d4",
+      "release_sha256": "aeb4629dafd1617a3d4a3a14375a27223dd80b005a16cbf1cb8874900b5cf4d4",
+      "bytes": 580
+    },
+    {
+      "path": "configs/local/.gitkeep",
+      "source": "2026ICME_HiSTF_Mamba/configs/local/.gitkeep",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "configs/logger/aim.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/aim.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "75aea5c99390eb86eeb05c433ded8ef91a2a7a3e6985a62b9d235645613f1d70",
+      "release_sha256": "75aea5c99390eb86eeb05c433ded8ef91a2a7a3e6985a62b9d235645613f1d70",
+      "bytes": 1267
+    },
+    {
+      "path": "configs/logger/comet.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/comet.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "4e46471685f47b238fcf3454a5a9b4bc735c75723d305e96cfcca2f4c0f75d17",
+      "release_sha256": "4e46471685f47b238fcf3454a5a9b4bc735c75723d305e96cfcca2f4c0f75d17",
+      "bytes": 372
+    },
+    {
+      "path": "configs/logger/csv.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/csv.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "5b1e2adffa494db168354d211ba0cb120738f7acc8d8d9b718727b98863be9d7",
+      "release_sha256": "5b1e2adffa494db168354d211ba0cb120738f7acc8d8d9b718727b98863be9d7",
+      "bytes": 157
+    },
+    {
+      "path": "configs/logger/many_loggers.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/many_loggers.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "988ed420737b95b2464ecd03f213349796bc5f914a413249507f3a5425323399",
+      "release_sha256": "988ed420737b95b2464ecd03f213349796bc5f914a413249507f3a5425323399",
+      "bytes": 118
+    },
+    {
+      "path": "configs/logger/mlflow.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/mlflow.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "d69cb36f98e92d4c5b71032ab45bb5c9b8ab9e7045f35b80a98ac345ef5f2f4b",
+      "release_sha256": "d69cb36f98e92d4c5b71032ab45bb5c9b8ab9e7045f35b80a98ac345ef5f2f4b",
+      "bytes": 339
+    },
+    {
+      "path": "configs/logger/neptune.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/neptune.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "59a9229d946b3dedb23bfa386ff780cc09f84fd9cc55b35dcda0eff539112dec",
+      "release_sha256": "59a9229d946b3dedb23bfa386ff780cc09f84fd9cc55b35dcda0eff539112dec",
+      "bytes": 277
+    },
+    {
+      "path": "configs/logger/tensorboard.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/tensorboard.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "132b8babe6a3f25dc12a08c80448425094655b3f7e2e4e4cb4968902e8d5bd08",
+      "release_sha256": "132b8babe6a3f25dc12a08c80448425094655b3f7e2e4e4cb4968902e8d5bd08",
+      "bytes": 258
+    },
+    {
+      "path": "configs/logger/wandb.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/logger/wandb.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "29fe48cae6aae78385164afa7919376aae47c817b7dfac85e2ba19f1a438e356",
+      "release_sha256": "29fe48cae6aae78385164afa7919376aae47c817b7dfac85e2ba19f1a438e356",
+      "bytes": 507
+    },
+    {
+      "path": "configs/model/default.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/default.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "f33ee4ac5385c0570bcdca1ba00c93b9f4ef5805077f26fcf5915ada71dad1ab",
+      "release_sha256": "2351b42ced232cd30e2b99cfb8e2f273bcbe23b2940b67d53490d86f383a8544",
+      "bytes": 281
+    },
+    {
+      "path": "configs/model/denoiser/light_final.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/denoiser/light_final.yaml",
+      "source_mtime_utc": "2026-07-03T08:30:07.579000+00:00",
+      "source_sha256": "a0d745a5179ab33ca113b0fae77efb753ade069940510eea82ef9d7a6e0a9b47",
+      "release_sha256": "119853d09ed9c27e2cb5f2cf683114b1ae6d2b44575ea8b228d9822625a16f36",
+      "bytes": 315
+    },
+    {
+      "path": "configs/model/light_final.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/light_final.yaml",
+      "source_mtime_utc": "2026-02-08T22:09:09.051672+00:00",
+      "source_sha256": "41b4609cdc43a0ca92937e4ef0639b8c2e2ff7a5f77e2d2a60d1a0731545c06a",
+      "release_sha256": "73498f903d2dbf86594293c40d61160503031812354065d99980b4c67550da07",
+      "bytes": 508
+    },
+    {
+      "path": "configs/model/lr_scheduler/cosine.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/lr_scheduler/cosine.yaml",
+      "source_mtime_utc": "2026-02-03T19:50:53.950584+00:00",
+      "source_sha256": "18e3845ee406745ac346c15a3d1e0b616f550b29767d7b895db8a7267cb1b20b",
+      "release_sha256": "e5b18a1f75cc129059271c04afaf3d30a70958b9c143207c5fda03b43e5df9af",
+      "bytes": 125
+    },
+    {
+      "path": "configs/model/noise_scheduler/DDPM_ori.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/noise_scheduler/DDPM_ori.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "79f718b13eebc2fa3c74be025cc854a0daf8379241426be0f669ff02a0104f68",
+      "release_sha256": "ff40758858f90df4edf6251790762d50fdda84de1be0aeeb0a26c357c72aab2b",
+      "bytes": 304
+    },
+    {
+      "path": "configs/model/optimizer/adam.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/optimizer/adam.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "1662add8251412175e99a41c28aecece757edf2dc154472f7693773b7f831ad9",
+      "release_sha256": "4a52f6e139533b9bb17d9a40dc38267879036b6b38fb182f3a21f4409c49df7a",
+      "bytes": 72
+    },
+    {
+      "path": "configs/model/optimizer/adamw.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/optimizer/adamw.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "367c6db2c9052a04c11f2343d029ea06c636a8043eaf5625366fc28bdce57164",
+      "release_sha256": "48efe6dd075bdab49cda2ba10b073102512f4d0ff1607298e5a1f10e2cbcccfa",
+      "bytes": 73
+    },
+    {
+      "path": "configs/model/sample_scheduler/DDIM.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/sample_scheduler/DDIM.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "357fa0341f0fa245a433c3d1f18bdd18d5da0657bd0b55039a68082fdd25b27b",
+      "release_sha256": "0dbcb06420b7aeb690582b6baab94cbc6c17ec0fb62e388cd9e98fdf5259b0c0",
+      "bytes": 656
+    },
+    {
+      "path": "configs/model/sample_scheduler/DDPM.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/sample_scheduler/DDPM.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "79f718b13eebc2fa3c74be025cc854a0daf8379241426be0f669ff02a0104f68",
+      "release_sha256": "e28e889de5bdf46222fa2109cf5286c7a3296ada56848884a89b7961e5d595b3",
+      "bytes": 305
+    },
+    {
+      "path": "configs/model/sample_scheduler/UniPC.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/sample_scheduler/UniPC.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "a7da4220e75024a27a400722ca93aafff62cb84287c3da0d52dc426dbb33ca1a",
+      "release_sha256": "c255ef8eaf2571ecf3e6b4da6f9d8924e3786623b4c86dc3115d171861a505e7",
+      "bytes": 356
+    },
+    {
+      "path": "configs/model/text_encoder/clip.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/text_encoder/clip.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "f4ea1d1bdad9e72002e63e30b6971ab5d31255ac64a47ec837eacc120b213086",
+      "release_sha256": "0d43e033b1f5bd62153cc88f475813907b9124f74eb0b0e196e558185c014617",
+      "bytes": 60
+    },
+    {
+      "path": "configs/paths/default.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/paths/default.yaml",
+      "source_mtime_utc": "2026-01-21T16:57:11.838067+00:00",
+      "source_sha256": "ebeb7f53507ca62011b23e89abcd440b668e6673759a13265d54c03e8d674d60",
+      "release_sha256": "6603e36104e355c68ba022eea057bd31c9b40a930a179cb1b2137b8d5dbdd89f",
+      "bytes": 647
+    },
+    {
+      "path": "configs/sample_motion.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/sample_motion.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "ed23267b98b2b182f4ef66972edc2e7dddf42acff0e7128a8750a5bb35ab4f70",
+      "release_sha256": "080caa46250c718f2dd142305b834a984d8f99ac65752e61dde5aab3ed9f48d5",
+      "bytes": 654
+    },
+    {
+      "path": "configs/train.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/train.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "56fab4781003273399effdfadcf4c16b5a9168f75c614359565d8a6063b097f2",
+      "release_sha256": "2408adcb57abab055f16a35bc4695388775cfce60887723a564dc0fb81119eff",
+      "bytes": 1617
+    },
+    {
+      "path": "configs/trainer/cpu.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/trainer/cpu.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "a950dc7be102e3b03b60b0078578c19e17459715d78dd5acb73b15cfa57e1fee",
+      "release_sha256": "a950dc7be102e3b03b60b0078578c19e17459715d78dd5acb73b15cfa57e1fee",
+      "bytes": 51
+    },
+    {
+      "path": "configs/trainer/ddp.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/trainer/ddp.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "21016e5b968a1c5351278a12aa26c7ee53d6cf5f34183950fa2564ef56aaa34c",
+      "release_sha256": "84fc07662ddc0804b8f81f7ce576934d97e45918eaa1b5a47819b6bc817325a2",
+      "bytes": 150
+    },
+    {
+      "path": "configs/trainer/ddp2.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/trainer/ddp2.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "74d9214e4787df93f446e87204f822c8db766bb373f34d5dbc300ca9566f9ef5",
+      "release_sha256": "5a09968804f459be4b9e0a5847b41ab65ed6745e9ab11e973204067cbd6854dd",
+      "bytes": 274
+    },
+    {
+      "path": "configs/trainer/ddp_sim.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/trainer/ddp_sim.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "23df9283e6381b2021ad1e5a607e1e30984f7b616a85b1fc8e950e327e5a5962",
+      "release_sha256": "23df9283e6381b2021ad1e5a607e1e30984f7b616a85b1fc8e950e327e5a5962",
+      "bytes": 115
+    },
+    {
+      "path": "configs/trainer/default.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/trainer/default.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "f0fca04e8b85c5dad179b82005beff5fc67a8c2e30bbd34f05e47b4ce21c98f3",
+      "release_sha256": "9c60630ce3caf73edf66833a4c2d16bb70509542acf89c0c3e17d554f5b422dc",
+      "bytes": 493
+    },
+    {
+      "path": "configs/trainer/gpu.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/trainer/gpu.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "e7c2d3192f59a1ad3da4e82e304b95a8cd9862850beb5c2be82c6c0ce688e30a",
+      "release_sha256": "e7c2d3192f59a1ad3da4e82e304b95a8cd9862850beb5c2be82c6c0ce688e30a",
+      "bytes": 51
+    },
+    {
+      "path": "configs/trainer/mps.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/trainer/mps.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "0e844d85640842e70222a5fcc2c6ea52fc1d9ff0fbb6fa8d64b8c9bf9e730bea",
+      "release_sha256": "0e844d85640842e70222a5fcc2c6ea52fc1d9ff0fbb6fa8d64b8c9bf9e730bea",
+      "bytes": 51
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "source": "Added during release preparation",
+      "release_sha256": "290ef3f56dd4187c480bf900a1af84f65eb5246ec6190fe1731e61170d22f090",
+      "bytes": 2465
+    },
+    {
+      "path": "docs/MAINTENANCE_REFERENCES.md",
+      "source": "Added during release preparation",
+      "release_sha256": "a626d15e16ca0bb31198b835fb7280a2c2a96c6a55202c0fbb5a1d55f812f501",
+      "bytes": 2537
+    },
+    {
+      "path": "docs/MAINTENANCE_VALIDATION.md",
+      "source": "Added during release preparation",
+      "release_sha256": "a3b6473e95e535214b0bc241bd512590b49fdb1d934949e5d2e5c3b1badb0afe",
+      "bytes": 2825
+    },
+    {
+      "path": "docs/RELEASE.md",
+      "source": "Added during release preparation",
+      "release_sha256": "135fc5c4111540e9ac5db430b04dd0a1a9fad119ea9cdfbd25146f5789c294db",
+      "bytes": 2977
+    },
+    {
+      "path": "docs/RELEASE_REPORT.md",
+      "source": "Added during release preparation",
+      "release_sha256": "5318777330a18f1709c79ce652792ed47b1fea4f39990cd8573acf46d0e813d4",
+      "bytes": 4770
+    },
+    {
+      "path": "docs/SETUP.md",
+      "source": "Added during release preparation",
+      "release_sha256": "90c30f23654a213e7ac5942f525ff920c54c8e8f5ee0544125a0e11875d388ae",
+      "bytes": 2163
+    },
+    {
+      "path": "docs/SOURCE_AUDIT.md",
+      "source": "Added during release preparation",
+      "release_sha256": "ebc4052171ca326e6827d94150eb93927c90a2242744ec89e1aaaba775f37d09",
+      "bytes": 3805
+    },
+    {
+      "path": "docs/USAGE.md",
+      "source": "Added during release preparation",
+      "release_sha256": "4678466379654c971d620ab3c9175db646f19128f217563e7c1fd06e515f285c",
+      "bytes": 2265
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "source": "Added during release preparation",
+      "release_sha256": "2063b9a256745675ac5e86bbd31f72548009a660b24c2ff8caa8dde789a222da",
+      "bytes": 1732
+    },
+    {
+      "path": "docs/checkpoint_search.json",
+      "source": "Added during release preparation",
+      "release_sha256": "26eb32141f6e3457392b8596a9e0292bbf4b0662ed10a6df54f201592dc0e6f1",
+      "bytes": 30808
+    },
+    {
+      "path": "docs/legacy_archive_search.json",
+      "source": "Added during release preparation",
+      "release_sha256": "559c86164c0d96f6217e4e603bf68ad865dbc3b3803dbd9bc1b202f3ef7a9169",
+      "bytes": 827
+    },
+    {
+      "path": "docs/model_construction.json",
+      "source": "Added during release preparation",
+      "release_sha256": "f968f0c76833fa840ef027d4315e2ce062d8895529e9ddc48c0876dfccc04e62",
+      "bytes": 269
+    },
+    {
+      "path": "docs/publication.json",
+      "source": "Added during release preparation",
+      "release_sha256": "1db43cdf5b65f21531d4d4ce4caf620ce9a7b1f93db740f1e3b1350992a69bad",
+      "bytes": 876
+    },
+    {
+      "path": "pyproject.toml",
+      "source": "Added during release preparation",
+      "release_sha256": "48d32b8abb945f71b6bc3f41c5aee44217a32fd4fbd5b578cce811f0d7826e0b",
+      "bytes": 202
+    },
+    {
+      "path": "requirements-dev.txt",
+      "source": "Added during release preparation",
+      "release_sha256": "139b9104be4a35edce4ee1b997980d915d4eb644b9669f6f101b4c99ba24e737",
+      "bytes": 31
+    },
+    {
+      "path": "requirements.txt",
+      "source": "Added during release preparation",
+      "release_sha256": "93b6cc8ce67d1f32c8c1f5c2013f39c4146a6e54371c0f7e5112e86db7c741b8",
+      "bytes": 459
+    },
+    {
+      "path": "src/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:33+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/data/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/data/hml3d_light.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/hml3d_light.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "461944039acf57c72669a590ea250d37ec0d11bfd8420e3e4ce7a82359fb257f",
+      "release_sha256": "09a61d5599b57701fe9dc601743fbfe0b00c6b75d8bc4cb5f64a79624b42cab1",
+      "bytes": 5916
+    },
+    {
+      "path": "src/data/humanml/README.md",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/README.md",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "8e0a8c28b4a38cdbc79ecd7095f19cbcada7fe759690b7b715cbcb145c0e93ce",
+      "release_sha256": "8e0a8c28b4a38cdbc79ecd7095f19cbcada7fe759690b7b715cbcb145c0e93ce",
+      "bytes": 71
+    },
+    {
+      "path": "src/data/humanml/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/data/humanml/common/quaternion.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/common/quaternion.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "17e96bb3af31952183453d4dc15f11f88bb940342f532f3860012aeecf1f85ad",
+      "release_sha256": "8307002b05bb53c6fdfad1149f93e33e6693c76543d0799486cd05a699240f63",
+      "bytes": 12871
+    },
+    {
+      "path": "src/data/humanml/common/skeleton.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/common/skeleton.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "bcee4778048295eced2cb0e071c9ff790fa9b78522f7a035a948e007c440c946",
+      "release_sha256": "d2df7d1e82706d2c639131621a530e3f50c01cc1584eaf040f6c51d567846b45",
+      "bytes": 9058
+    },
+    {
+      "path": "src/data/humanml/dataset.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/dataset.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "502e15b201dadc4a648a082e1bb6dcaf1749aa2a2913728a751dfe022d684b69",
+      "release_sha256": "66a88d222fc2bb175b725bcee811f56549ecbe5db5725584ddac47ab21ef5ede",
+      "bytes": 11386
+    },
+    {
+      "path": "src/data/humanml/scripts/motion_process.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/scripts/motion_process.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "4588c161562f831e409a571f9b94bf22f42da85389b28dfe705899fba0d06460",
+      "release_sha256": "64030dff83501837036449cb2a358fde4a3050a3203b6fd0f1e3d66bb9b828b0",
+      "bytes": 21044
+    },
+    {
+      "path": "src/data/humanml/scripts/paramUtil.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/scripts/paramUtil.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "ec119ad7e3ab3bf17a49c582131a05a7bbf93c6d1d46e478b8c564941b5910e7",
+      "release_sha256": "f8f23c563ef61b5f04038c45d7d5a249718a456a7fe644fe7b0e5ae3e5420050",
+      "bytes": 1614
+    },
+    {
+      "path": "src/data/humanml/scripts/word_vectorizer.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/humanml/scripts/word_vectorizer.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "bdb22d6a69e6c027ddc69eba552375ea95d023e47f5e9f839d0f4a38da8e6640",
+      "release_sha256": "fcdfbdb4aa9938a9417939feaa3adb9c5e75d6de43ad1201fbf2053539659258",
+      "bytes": 2944
+    },
+    {
+      "path": "src/data/utils.py",
+      "source": "2026ICME_HiSTF_Mamba/src/data/utils.py",
+      "source_mtime_utc": "2026-01-15T17:21:38+00:00",
+      "source_sha256": "f6cc5d41970544a99da2a0696689475ca0c84d262e2de075ca208eb5c80120c8",
+      "release_sha256": "d627797106f2e504477a19dc4a98fdea283b2bc941615579f8ffca3ec09aaa2b",
+      "bytes": 1907
+    },
+    {
+      "path": "src/eval.py",
+      "source": "2026ICME_HiSTF_Mamba/src/eval.py",
+      "source_mtime_utc": "2026-01-15T17:21:39+00:00",
+      "source_sha256": "97a126ae46379683a7e8c4cfd5ff915e0372763e5f819afa3ac18b726ba6e634",
+      "release_sha256": "7bff4b253fbaece239b7238ac01dbef8cc811a8089775dee1e56aaa2a1975be7",
+      "bytes": 7258
+    },
+    {
+      "path": "src/models/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/models/checkpoint.py",
+      "source": "Added during release preparation",
+      "release_sha256": "f718c08ecd920ee44314cea8e1e524c28f28bf02a7d7ed4e552371bdb12b82d0",
+      "bytes": 988
+    },
+    {
+      "path": "src/models/evaluator/T2M/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/evaluator/T2M/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "671b963751ef9af643b2f51fce2ea2de131d8a081d2926ce122e62d2697f06ab",
+      "release_sha256": "8380f4601f9d8565aadcada717ead38f449ffb0edeffb2260cc3eb08310b7a52",
+      "bytes": 36
+    },
+    {
+      "path": "src/models/evaluator/T2M/evaluator.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/evaluator/T2M/evaluator.py",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "3d33cd63423f703e778db47ce8f460575668b3371f559b34cfc4b68fb5ac6a52",
+      "release_sha256": "5015ab53c2afdc76b23af0f86a3350f9edfa0d7295672ebbdf692051e3ab2551",
+      "bytes": 3543
+    },
+    {
+      "path": "src/models/evaluator/T2M/t2m_motionenc.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/evaluator/T2M/t2m_motionenc.py",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "55746cecc8e2789322faea458223ca19e2aaa83bbf42593fd75f880d698fe9b8",
+      "release_sha256": "3ed29b3c88a4d2da66a9bb234c7a45eb0824405f8101432598efca98d6b28f76",
+      "bytes": 2169
+    },
+    {
+      "path": "src/models/evaluator/T2M/t2m_textenc.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/evaluator/T2M/t2m_textenc.py",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "a7713eba167e49c021aecbdcde9c6da7d7516dc5600ce2a011ef39ad0f7e3a69",
+      "release_sha256": "310d2f08e5ebeafe00f2104a526a2a04cfadc21c2cb03f53ac65486113027000",
+      "bytes": 1629
+    },
+    {
+      "path": "src/models/evaluator/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/evaluator/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/models/light_final.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models-o/light_final.py",
+      "source_mtime_utc": "2026-01-15T17:21:40+00:00",
+      "source_sha256": "425d3067453a0901efa3e8160b9359dd9d76cfa0bcd904237d81e8ba8f7d4dc9",
+      "release_sha256": "40e34c3de3239a1fad6ea9e83761426923939a8c6173a4374b77413c4a9fc87b",
+      "bytes": 12635
+    },
+    {
+      "path": "src/models/metrics/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/metrics/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "5702f710c8b7cc01bddbfd98a6b6fae75f47081ec9721d3dea61ba70aea55e67",
+      "release_sha256": "657693e71ece352e7e3c48aa9815e10b94bd738caafcb116cfdb55fc6411f0d2",
+      "bytes": 56
+    },
+    {
+      "path": "src/models/metrics/mm.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/metrics/mm.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "1b74adbdeb33e095b52dc7bfd8e4031dffd6dd3b924c1c225e999efdfc68d674",
+      "release_sha256": "e12c7c61583f83fb65ac2d3c49d980b86d5e1b3bae3c1dbeb59cea5b7895fb11",
+      "bytes": 1352
+    },
+    {
+      "path": "src/models/metrics/tm2t.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/metrics/tm2t.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "07443dc9f106a5cbb5c59c5bd9322793901cf3a07b5542690bb576707b0f3f9a",
+      "release_sha256": "81a5692c68c2990542c9f066ae5929fcab07b803612ccf00b88d91bc17dd0017",
+      "bytes": 7861
+    },
+    {
+      "path": "src/models/metrics/utils.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/metrics/utils.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "8a82a5fbb7f165d0bcf58c8e9f9fb252e91d4e1a5cf9d8d33ce304033af97cf8",
+      "release_sha256": "30588ad29defc9c2d764b4253bc37dc7f08a82fcef8f373cb7c89cf5af8caa43",
+      "bytes": 19914
+    },
+    {
+      "path": "src/models/nets/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:35+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/models/nets/ema.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/ema.py",
+      "source_mtime_utc": "2026-01-15T17:21:36+00:00",
+      "source_sha256": "fdcdfb1262bc1cb89842d424e688910d45a16e6bd453e33e65d95f6dd687c9a0",
+      "release_sha256": "ac1598f53e9fd6f12136d089c81694d06f974402b4acfde6b43af6e9d22b60a5",
+      "bytes": 919
+    },
+    {
+      "path": "src/models/nets/fusion.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/histf_mamba.py",
+      "source_mtime_utc": "2026-01-15T17:21:35+00:00",
+      "source_sha256": "8729e8787e24735cc67c6494dd714e68883a406c49c118b35445ccd92a7aa49c",
+      "note": "Extracted pure-PyTorch classes; parameter names retained by importing them into the original backbone.",
+      "release_sha256": "67bf3a0d2955c5e4cae3b241fc81f7a93d2dfa73d76ffc29e19d5b5e1de57325",
+      "bytes": 2500
+    },
+    {
+      "path": "src/models/nets/histf_mamba.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/histf_mamba.py",
+      "source_mtime_utc": "2026-01-15T17:21:35+00:00",
+      "source_sha256": "8729e8787e24735cc67c6494dd714e68883a406c49c118b35445ccd92a7aa49c",
+      "release_sha256": "0357f04b848b6976b34831028b206bd9efeaaa06f33ca65f66a92b70c266cb23",
+      "bytes": 22019
+    },
+    {
+      "path": "src/models/nets/light_final.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/light_final.py",
+      "source_mtime_utc": "2026-01-15T17:21:40+00:00",
+      "source_sha256": "1b49ea0dd6b97b8a97d5b0553e4fbf6953fb4de5a55fb150b1a05063b6f99fc5",
+      "release_sha256": "91cd00d52993311da6257d4cff2269ea9feab6b2d896a761a36af08f8eeea25e",
+      "bytes": 5713
+    },
+    {
+      "path": "src/models/nets/spatial.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/histf_mamba.py",
+      "source_mtime_utc": "2026-01-15T17:21:35+00:00",
+      "source_sha256": "8729e8787e24735cc67c6494dd714e68883a406c49c118b35445ccd92a7aa49c",
+      "note": "Extracted pure-PyTorch classes; parameter names retained by importing them into the original backbone.",
+      "release_sha256": "4953a097b7aca207ef12dbb130be4b01cf371498ef00acf28f5198cea548c492",
+      "bytes": 7023
+    },
+    {
+      "path": "src/models/nets/text_encoder.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/text_encoder.py",
+      "source_mtime_utc": "2026-01-15T17:21:35+00:00",
+      "source_sha256": "2949c378794339f39e7bab4392bbff6746e86448d691c43bba8e6eb8e735950f",
+      "release_sha256": "aaf39aa8cb508b461ddb2a695ea5a03fa1ac0411af4cd0421f408b4b6a69cd85",
+      "bytes": 2687
+    },
+    {
+      "path": "src/models/nets/whole_part.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/nets/whole_part.py",
+      "source_mtime_utc": "2026-01-15T17:21:35+00:00",
+      "source_sha256": "76f5e7edcaba0b5bcd905381c05820160b660cec1022200166c3322f92a7e411",
+      "release_sha256": "fe3565ee8ba2c8b423928680437595d5b1af143859d446e82a0f02924f69bfaa",
+      "bytes": 20535
+    },
+    {
+      "path": "src/models/utils/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/utils/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "src/models/utils/embedding.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/utils/embedding.py",
+      "source_mtime_utc": "2026-01-15T17:21:35+00:00",
+      "source_sha256": "03947f13605474270987cc9e4f9f6ea1dc35c5daee63414fdf6cc603edc1e994",
+      "release_sha256": "4020360d9baa09c5f63aa2ec63a453d9fef13e7d701c93ec02bcb6e7dfb32366",
+      "bytes": 3703
+    },
+    {
+      "path": "src/models/utils/utils.py",
+      "source": "2026ICME_HiSTF_Mamba/src/models/utils/utils.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "c3f8533066073cfb1243e703a3866cbb3959d9eaf9f43b4a0e82c778598364d2",
+      "release_sha256": "26b85624fd640d1bf428137948909cdca3d8600b92331079220abd9922650227",
+      "bytes": 7072
+    },
+    {
+      "path": "src/sample_motion.py",
+      "source": "2026ICME_HiSTF_Mamba/src/sample_motion.py",
+      "source_mtime_utc": "2026-01-15T17:21:40+00:00",
+      "source_sha256": "018464ea472e273333b34275eaab8d9be480b01e386bb257f99587efac3b49da",
+      "release_sha256": "4dc1e26a73a6d92ec74d1fc3183b551dd0b79e2962c34e2fb395dc3a9a10682a",
+      "bytes": 4572
+    },
+    {
+      "path": "src/tools/data_preprocess.py",
+      "source": "2026ICME_HiSTF_Mamba/src/tools/data_preprocess.py",
+      "source_mtime_utc": "2026-01-21T17:01:53.450912+00:00",
+      "source_sha256": "29e57e644c14e35ba24696a7df20e78326c8bd2331be0ca79677c0b8409ccc38",
+      "release_sha256": "4ca2a3af46ca56911ede98b5c5c420c201750b75a2ffac9ee2ec7f0677a6e0d9",
+      "bytes": 4478
+    },
+    {
+      "path": "src/train.py",
+      "source": "2026ICME_HiSTF_Mamba/src/train.py",
+      "source_mtime_utc": "2026-01-15T17:21:37+00:00",
+      "source_sha256": "0cbc56d10c04e31d1f323e310ae6e8bb2c4046284e86fcf14616cb27562a34e1",
+      "release_sha256": "d7beb89dff38b09bb7112e3592379dfa8c8ebae687f94f9659172465d99cb7b1",
+      "bytes": 4904
+    },
+    {
+      "path": "src/utils/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/src/utils/__init__.py",
+      "source_mtime_utc": "2026-01-15T17:21:33+00:00",
+      "source_sha256": "53c89d14f10dc118d52ecc0122763b4a447325aed03354c70cc9d95cfed289b7",
+      "release_sha256": "53c89d14f10dc118d52ecc0122763b4a447325aed03354c70cc9d95cfed289b7",
+      "bytes": 311
+    },
+    {
+      "path": "src/utils/instantiators.py",
+      "source": "2026ICME_HiSTF_Mamba/src/utils/instantiators.py",
+      "source_mtime_utc": "2026-01-15T17:21:34+00:00",
+      "source_sha256": "7427ee57bfaee534ba360891acec43eb208501da23a39aee8b926f7980343724",
+      "release_sha256": "7427ee57bfaee534ba360891acec43eb208501da23a39aee8b926f7980343724",
+      "bytes": 1782
+    },
+    {
+      "path": "src/utils/logging_utils.py",
+      "source": "2026ICME_HiSTF_Mamba/src/utils/logging_utils.py",
+      "source_mtime_utc": "2026-01-15T17:21:33+00:00",
+      "source_sha256": "ef8397ab1990fc20a3952db849634b3a1092ff58fc8af4c03f9e6a090c3f1eba",
+      "release_sha256": "ef8397ab1990fc20a3952db849634b3a1092ff58fc8af4c03f9e6a090c3f1eba",
+      "bytes": 1764
+    },
+    {
+      "path": "src/utils/pylogger.py",
+      "source": "2026ICME_HiSTF_Mamba/src/utils/pylogger.py",
+      "source_mtime_utc": "2026-01-15T17:21:33+00:00",
+      "source_sha256": "e1cd939a1aaa3acbd984e351f7aaacbabf689b7b4dcb4cfb5b22a322b94ffc8a",
+      "release_sha256": "e1cd939a1aaa3acbd984e351f7aaacbabf689b7b4dcb4cfb5b22a322b94ffc8a",
+      "bytes": 2419
+    },
+    {
+      "path": "src/utils/rich_utils.py",
+      "source": "2026ICME_HiSTF_Mamba/src/utils/rich_utils.py",
+      "source_mtime_utc": "2026-01-15T17:21:33+00:00",
+      "source_sha256": "080042db773ce826bf3c8b4eb7f8e21f3932992d6607dc36b69dffce0c570dd8",
+      "release_sha256": "080042db773ce826bf3c8b4eb7f8e21f3932992d6607dc36b69dffce0c570dd8",
+      "bytes": 3274
+    },
+    {
+      "path": "src/utils/utils.py",
+      "source": "2026ICME_HiSTF_Mamba/src/utils/utils.py",
+      "source_mtime_utc": "2026-01-15T17:21:33+00:00",
+      "source_sha256": "1243d6315e7a8d2bf605d6dc24e7eed4143350536f2ec15bcfe18ec24c678de3",
+      "release_sha256": "1243d6315e7a8d2bf605d6dc24e7eed4143350536f2ec15bcfe18ec24c678de3",
+      "bytes": 4263
+    },
+    {
+      "path": "tests/test_core.py",
+      "source": "Added during release preparation",
+      "release_sha256": "3cbda2f9f84c944428e72851c5af19969bb64db4daeec8ee0a6d4535cee3407a",
+      "bytes": 3362
+    },
+    {
+      "path": "tests/test_maintenance.py",
+      "source": "Added during release preparation",
+      "release_sha256": "b3f290d5a59bef91ed4d0032ec74f22af44b598ae2d2567ad0a5e3048b00613c",
+      "bytes": 6620
+    },
+    {
+      "path": "third_party/CLIP_LICENSE",
+      "source": "Added during release preparation",
+      "release_sha256": "987e63b32f6c89ff5160e429458a872ff048e6860b590a3912e938f9da8f14db",
+      "bytes": 1064
+    },
+    {
+      "path": "third_party/VISION_MAMBA_LICENSE",
+      "source": "Added during release preparation",
+      "release_sha256": "760939b000194d04548ede6a857bbe735d1695d8422ec85955c8e2bd7f4b95c5",
+      "bytes": 11348
+    },
+    {
+      "path": "third_party/causal-conv1d/AUTHORS",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/AUTHORS",
+      "source_sha256": "0dd3fdb00754168d9789b946e325655491bc209faf8cb68c7f9dded33f82a775",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "0dd3fdb00754168d9789b946e325655491bc209faf8cb68c7f9dded33f82a775",
+      "bytes": 23
+    },
+    {
+      "path": "third_party/causal-conv1d/LICENSE",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/LICENSE",
+      "source_sha256": "8c9ccb96c065e706135b6cbad279b721da6156e51f3a5f27c6b3329af9416d73",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "8c9ccb96c065e706135b6cbad279b721da6156e51f3a5f27c6b3329af9416d73",
+      "bytes": 1558
+    },
+    {
+      "path": "third_party/causal-conv1d/README.md",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/README.md",
+      "source_sha256": "c4c4c218f701c7e06520318c8bbf5bc3dc3d719fead82e961bb7b4bd3efc46a0",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "c4c4c218f701c7e06520318c8bbf5bc3dc3d719fead82e961bb7b4bd3efc46a0",
+      "bytes": 565
+    },
+    {
+      "path": "third_party/causal-conv1d/causal_conv1d/__init__.py",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/causal_conv1d/__init__.py",
+      "source_sha256": "157500d6ae5693599655045aba21acb9fb4517903739c48b35d443f0c2f75d2f",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "157500d6ae5693599655045aba21acb9fb4517903739c48b35d443f0c2f75d2f",
+      "bytes": 112
+    },
+    {
+      "path": "third_party/causal-conv1d/causal_conv1d/causal_conv1d_interface.py",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/causal_conv1d/causal_conv1d_interface.py",
+      "source_sha256": "f98c24066be42f718a700cc48ea979398bf1a4362203eeb1cbc245b5272c6c0a",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "f98c24066be42f718a700cc48ea979398bf1a4362203eeb1cbc245b5272c6c0a",
+      "bytes": 3697
+    },
+    {
+      "path": "third_party/causal-conv1d/csrc/causal_conv1d.cpp",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/csrc/causal_conv1d.cpp",
+      "source_sha256": "79c94500ce91bb829333adaa54738ee1337b2290e84bb52ca8cf0ec5dc03d183",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "79c94500ce91bb829333adaa54738ee1337b2290e84bb52ca8cf0ec5dc03d183",
+      "bytes": 15747
+    },
+    {
+      "path": "third_party/causal-conv1d/csrc/causal_conv1d.h",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/csrc/causal_conv1d.h",
+      "source_sha256": "d7b1eb4f68be27ae4466c61216cd5362946154809aff842b4af221f0fd77c675",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "d7b1eb4f68be27ae4466c61216cd5362946154809aff842b4af221f0fd77c675",
+      "bytes": 1434
+    },
+    {
+      "path": "third_party/causal-conv1d/csrc/causal_conv1d_bwd.cu",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/csrc/causal_conv1d_bwd.cu",
+      "source_sha256": "cd3a18385e772586d2395fb079f76bc76e04522f6906b6b1f47685c75b0ba528",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "cd3a18385e772586d2395fb079f76bc76e04522f6906b6b1f47685c75b0ba528",
+      "bytes": 29595
+    },
+    {
+      "path": "third_party/causal-conv1d/csrc/causal_conv1d_common.h",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/csrc/causal_conv1d_common.h",
+      "source_sha256": "ebccffb68c42b657a68d015cba8f89d410645289f5673cd6e51514158129292f",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "ebccffb68c42b657a68d015cba8f89d410645289f5673cd6e51514158129292f",
+      "bytes": 1717
+    },
+    {
+      "path": "third_party/causal-conv1d/csrc/causal_conv1d_fwd.cu",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/csrc/causal_conv1d_fwd.cu",
+      "source_sha256": "e737bcd121576bd61c88d30c9b8828f598e1878f4d6402ad7d738a20b63a2241",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "e737bcd121576bd61c88d30c9b8828f598e1878f4d6402ad7d738a20b63a2241",
+      "bytes": 19470
+    },
+    {
+      "path": "third_party/causal-conv1d/csrc/causal_conv1d_update.cu",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/csrc/causal_conv1d_update.cu",
+      "source_sha256": "16bb4349b4ad64cfd68ab2084565f364502d5ace065c169e0bba3f013a04999f",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "16bb4349b4ad64cfd68ab2084565f364502d5ace065c169e0bba3f013a04999f",
+      "bytes": 4835
+    },
+    {
+      "path": "third_party/causal-conv1d/csrc/static_switch.h",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/csrc/static_switch.h",
+      "source_sha256": "9e587f9083d153fbe426476269ea9cf4471233bf3bcba28519d11248c7a52104",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "9e587f9083d153fbe426476269ea9cf4471233bf3bcba28519d11248c7a52104",
+      "bytes": 1278
+    },
+    {
+      "path": "third_party/causal-conv1d/setup.py",
+      "source": "https://github.com/Dao-AILab/causal-conv1d/blob/97711965f6ea028d9fd4fe94e4e490b7c1011e11/setup.py",
+      "source_sha256": "6c4e517181d3db60b3e8fea1d3bd037cc41a58964f70657919ec7f68cbb13476",
+      "upstream_commit": "97711965f6ea028d9fd4fe94e4e490b7c1011e11",
+      "upstream_tag": "v1.1.1",
+      "note": "Replaces archived v1.0.0 to match the five/seven-argument CUDA calls used by the selected Mamba implementation.",
+      "release_sha256": "6c4e517181d3db60b3e8fea1d3bd037cc41a58964f70657919ec7f68cbb13476",
+      "bytes": 9877
+    },
+    {
+      "path": "third_party/mamba/LICENSE",
+      "source": "2026ICME_HiSTF_Mamba/mamba/LICENSE",
+      "source_mtime_utc": "2025-07-26T20:39:23.687133+00:00",
+      "source_sha256": "760939b000194d04548ede6a857bbe735d1695d8422ec85955c8e2bd7f4b95c5",
+      "release_sha256": "760939b000194d04548ede6a857bbe735d1695d8422ec85955c8e2bd7f4b95c5",
+      "bytes": 11348
+    },
+    {
+      "path": "third_party/mamba/README.md",
+      "source": "2026ICME_HiSTF_Mamba/mamba/README.md",
+      "source_mtime_utc": "2025-07-26T20:39:23.687133+00:00",
+      "source_sha256": "d380a3dd36878a1f9daea1a0aedea538699e18e7ddc316379299f616b384b209",
+      "release_sha256": "1c74f941a69c354eefb409c682f3d6c9b298776fafc99a64edf339dba5aba4f0",
+      "bytes": 8260
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/reverse_scan.cuh",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/reverse_scan.cuh",
+      "source_mtime_utc": "2025-07-26T20:39:23.692133+00:00",
+      "source_sha256": "a257f066e80ba1c852b97416bf8ebf69b9f4d0d99c66110ea2cc8add7ba9170c",
+      "release_sha256": "a257f066e80ba1c852b97416bf8ebf69b9f4d0d99c66110ea2cc8add7ba9170c",
+      "bytes": 17978
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan.cpp",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan.cpp",
+      "source_mtime_utc": "2025-07-26T20:39:23.693133+00:00",
+      "source_sha256": "7a383cb5bab14d47fecee86346ca5a0e499eac5ab791f9cd0379c70dcc5243af",
+      "release_sha256": "7a383cb5bab14d47fecee86346ca5a0e499eac5ab791f9cd0379c70dcc5243af",
+      "bytes": 21714
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan.h",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan.h",
+      "source_mtime_utc": "2025-07-26T20:39:23.693133+00:00",
+      "source_sha256": "fd82ff6ac520cc250ecae5fc01a948a7cba33e977dce2a6822064664759511a1",
+      "release_sha256": "fd82ff6ac520cc250ecae5fc01a948a7cba33e977dce2a6822064664759511a1",
+      "bytes": 2771
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_bwd_bf16_complex.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_bwd_bf16_complex.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.694133+00:00",
+      "source_sha256": "d3191c1308b455c4576938a656b26a9434bb35e06746077de0dcad262d92a6c9",
+      "release_sha256": "d3191c1308b455c4576938a656b26a9434bb35e06746077de0dcad262d92a6c9",
+      "bytes": 395
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_bwd_bf16_real.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_bwd_bf16_real.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.694133+00:00",
+      "source_sha256": "6c7c3d8fc74d46103f4cc05d273437f451945db5e92f0aba6c25dd7e8a4a59d1",
+      "release_sha256": "6c7c3d8fc74d46103f4cc05d273437f451945db5e92f0aba6c25dd7e8a4a59d1",
+      "bytes": 391
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_bwd_fp16_complex.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_bwd_fp16_complex.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.694133+00:00",
+      "source_sha256": "cf749e40690f9c2131cfe9b23ac42da4446bc747e6fd8f1aed45124d2cd5b74b",
+      "release_sha256": "cf749e40690f9c2131cfe9b23ac42da4446bc747e6fd8f1aed45124d2cd5b74b",
+      "bytes": 391
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_bwd_fp16_real.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_bwd_fp16_real.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.695133+00:00",
+      "source_sha256": "ce5a8f9bb9e485be8ca70fec63b084f908598f6a1cdd47d754290f2057ee2f61",
+      "release_sha256": "ce5a8f9bb9e485be8ca70fec63b084f908598f6a1cdd47d754290f2057ee2f61",
+      "bytes": 387
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_bwd_fp32_complex.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_bwd_fp32_complex.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.695133+00:00",
+      "source_sha256": "9462ad461cde1bded09a0ef236ae4b070ccb7aadae61e27b78a3dc6e1a5a033d",
+      "release_sha256": "9462ad461cde1bded09a0ef236ae4b070ccb7aadae61e27b78a3dc6e1a5a033d",
+      "bytes": 388
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_bwd_fp32_real.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_bwd_fp32_real.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.695133+00:00",
+      "source_sha256": "142e266e024f53f41c65f8f114fbc21b1d873a262a2e9743f9965ba069eda4e9",
+      "release_sha256": "142e266e024f53f41c65f8f114fbc21b1d873a262a2e9743f9965ba069eda4e9",
+      "bytes": 384
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_bwd_kernel.cuh",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_bwd_kernel.cuh",
+      "source_mtime_utc": "2025-07-26T20:39:23.696133+00:00",
+      "source_sha256": "702ee19f5e84fe84179d59ad4a4ed618c89b66deb07a9e801b0c62113f9e124a",
+      "release_sha256": "702ee19f5e84fe84179d59ad4a4ed618c89b66deb07a9e801b0c62113f9e124a",
+      "bytes": 33634
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_common.h",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_common.h",
+      "source_mtime_utc": "2025-07-26T20:39:23.696133+00:00",
+      "source_sha256": "8e2aea6743bde40e1b19ceda14093e05b18f1fb03ecf8c898943832bd0cc27f2",
+      "release_sha256": "8e2aea6743bde40e1b19ceda14093e05b18f1fb03ecf8c898943832bd0cc27f2",
+      "bytes": 8573
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_fwd_bf16.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_fwd_bf16.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.697133+00:00",
+      "source_sha256": "a3b0256715f39866274d9c9ef7e9791d2b22c71a5efd451c384ad8211ad2d7b6",
+      "release_sha256": "a3b0256715f39866274d9c9ef7e9791d2b22c71a5efd451c384ad8211ad2d7b6",
+      "bytes": 500
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_fwd_fp16.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_fwd_fp16.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.697133+00:00",
+      "source_sha256": "f5b32ea6a10c755032e469754adbfbb554fab562eede31d33d99f746f5991a8c",
+      "release_sha256": "f5b32ea6a10c755032e469754adbfbb554fab562eede31d33d99f746f5991a8c",
+      "bytes": 492
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_fwd_fp32.cu",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_fwd_fp32.cu",
+      "source_mtime_utc": "2025-07-26T20:39:23.698133+00:00",
+      "source_sha256": "2ae10cb46816a25caa9711fd8b0aa9252763cda46f7f1765c11ca29bf57944b1",
+      "release_sha256": "2ae10cb46816a25caa9711fd8b0aa9252763cda46f7f1765c11ca29bf57944b1",
+      "bytes": 486
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/selective_scan_fwd_kernel.cuh",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/selective_scan_fwd_kernel.cuh",
+      "source_mtime_utc": "2025-07-26T20:39:23.698133+00:00",
+      "source_sha256": "41a27bb414894e7959bf6cc7f5ef0595aa613af6585c412114af2165d30bcb71",
+      "release_sha256": "41a27bb414894e7959bf6cc7f5ef0595aa613af6585c412114af2165d30bcb71",
+      "bytes": 19247
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/static_switch.h",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/static_switch.h",
+      "source_mtime_utc": "2025-07-26T20:39:23.699133+00:00",
+      "source_sha256": "1eb3ebf9f2f231be1bfad83ad15612031e24980336c0019f2d742bce599f704c",
+      "release_sha256": "1eb3ebf9f2f231be1bfad83ad15612031e24980336c0019f2d742bce599f704c",
+      "bytes": 1278
+    },
+    {
+      "path": "third_party/mamba/csrc/selective_scan/uninitialized_copy.cuh",
+      "source": "2026ICME_HiSTF_Mamba/mamba/csrc/selective_scan/uninitialized_copy.cuh",
+      "source_mtime_utc": "2025-07-26T20:39:23.699133+00:00",
+      "source_sha256": "80d81db2fe2c47d0e89b9b29643fda533ed065d2157d9a1c6a41a1078c057de6",
+      "release_sha256": "80d81db2fe2c47d0e89b9b29643fda533ed065d2157d9a1c6a41a1078c057de6",
+      "bytes": 2646
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/__init__.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.700133+00:00",
+      "source_sha256": "5e61917878c1f3275d79fc1406af736320309804e4320777a9f32ea863e9594f",
+      "release_sha256": "5e61917878c1f3275d79fc1406af736320309804e4320777a9f32ea863e9594f",
+      "bytes": 220
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/models/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/models/__init__.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.701133+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/models/config_mamba.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/models/config_mamba.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.702133+00:00",
+      "source_sha256": "f9a7c694e1aaa82e01377f96927095223892a0a0fe64efadaf382c8335bdbc8a",
+      "release_sha256": "c157bf248ccf1eb9d7a6aa815ce993be4734cb6e7d114ac679ec906b162287a0",
+      "bytes": 324
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/models/mixer_seq_simple.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/models/mixer_seq_simple.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.703133+00:00",
+      "source_sha256": "060c4e3345625b05905c33dae837557b8f46504251186f28fb82fa612f17803e",
+      "release_sha256": "6c308f761aab47b1776bb445882d8c78b943d88e1f9929de301766730adfda00",
+      "bytes": 10142
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/modules/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/modules/__init__.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.703133+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/modules/mamba_simple.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/modules/mamba_simple.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.704133+00:00",
+      "source_sha256": "3707aa40de7e9075482dc7e3109bc0d08eacca10dd53d42d4c438b1bb5ee528b",
+      "release_sha256": "3497702e036f15c644ca176296b79d44bfb51cf0801c3722e2d12b42ef543c4c",
+      "bytes": 19613
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/ops/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/ops/__init__.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.705133+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/ops/selective_scan_interface.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/ops/selective_scan_interface.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.706133+00:00",
+      "source_sha256": "66e08f052fe5133aa0d231142a7ee270bab2656a3565027977d44644d478fbbb",
+      "release_sha256": "932e9670ecdd5c5572a77a57e8c47ccdcdc6c0b5a81c5d590eaa9aa1344e9420",
+      "bytes": 41275
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/ops/triton/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/ops/triton/__init__.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.706133+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/ops/triton/layernorm.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/ops/triton/layernorm.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.708133+00:00",
+      "source_sha256": "e711e9af70dea103f5d1f69b59187a1fd5980f5163049f764985fa7bbb0fe158",
+      "release_sha256": "cb3c4fc61f099daa8e3107b506ef32de38e60ea8d59d00abe41fa43fd3753b5e",
+      "bytes": 21625
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/ops/triton/selective_state_update.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/ops/triton/selective_state_update.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.708133+00:00",
+      "source_sha256": "b29627ec0290007174fe30fdcd8fe039cb1520bff104bd2c2ef57c49ae56b6f3",
+      "release_sha256": "7efc1f22618dd1956b9f3c1c055851c297ebf2e28942c6b9fd197b0bc78df285",
+      "bytes": 7357
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/utils/__init__.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/utils/__init__.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.708133+00:00",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/utils/generation.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/utils/generation.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.710134+00:00",
+      "source_sha256": "2bb8637c826fdc62b54c77b369aa6a8a53d9e72bdfc57abe0e45152a18369a5d",
+      "release_sha256": "3766a785d52470527c8baacd4784d733d2985e5e06c928bec2d2d90d7565dec4",
+      "bytes": 14930
+    },
+    {
+      "path": "third_party/mamba/mamba_ssm/utils/hf.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/mamba_ssm/utils/hf.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.710134+00:00",
+      "source_sha256": "aa6f3a349826612bf3b310d209ebe50546bf1b2be9bcee3d5959cabfa7d235f6",
+      "release_sha256": "36a624a0ccd7e0160c534be4160ba3df6068d981e6e8a1a45f28d1f155b383b4",
+      "bytes": 1000
+    },
+    {
+      "path": "third_party/mamba/setup.py",
+      "source": "2026ICME_HiSTF_Mamba/mamba/setup.py",
+      "source_mtime_utc": "2025-07-26T20:39:23.712134+00:00",
+      "source_sha256": "aa8ae063ac004cff116e28b49c51bd418d095507cfdedc837a05b446b428fd1a",
+      "release_sha256": "237eb18fd1c5601dc9acc612a5b989a965a5407ccfad3b3f76a7962a753bc653",
+      "bytes": 10472
+    },
+    {
+      "path": "tools/check_docs.py",
+      "source": "Added during release preparation",
+      "release_sha256": "ec48248ba7f5a4af7ae38ab34bf0c3ab566ed31b7ff2de0d77d827efc0761c3a",
+      "bytes": 3030
+    },
+    {
+      "path": "tools/check_environment.py",
+      "source": "Added during release preparation",
+      "release_sha256": "54ac2ba90edc2f311f0def7664a1de1c33f3ba58bd92815f8931fbed22dbdd96",
+      "bytes": 903
+    },
+    {
+      "path": "tools/check_release.py",
+      "source": "Added during release preparation",
+      "release_sha256": "2be8e96d215a865a90a028b336646d8ad70c636c9c332171cde52c2ec5671d79",
+      "bytes": 952
+    },
+    {
+      "path": "tools/install_backend.sh",
+      "source": "Added during release preparation",
+      "release_sha256": "717fee294015f8cf69ac4a99a27d7d9cf51db813cbce60276ceecb14aec0b03c",
+      "bytes": 434
+    },
+    {
+      "path": "tools/maintain.py",
+      "source": "Added during release preparation",
+      "release_sha256": "0e5618df6cfe9ef6f75d6848cd9fbad82f9355e918c51aec6286d0c1fce24320",
+      "bytes": 1307
+    },
+    {
+      "path": "tools/prepare_archives.py",
+      "source": "Added during release preparation",
+      "release_sha256": "889cfc2107f3ba0868062cfc3e17b7405a8645346e5b0a3588e408921139f543",
+      "bytes": 7060
+    },
+    {
+      "path": "tools/smoke_cuda.py",
+      "source": "Added during release preparation",
+      "release_sha256": "639ad39b12f004d98a1b67a6429a769102915cdccb66d52d1f64b6a4a614c793",
+      "bytes": 1195
+    },
+    {
+      "path": "tools/sync_publication.py",
+      "source": "Added during release preparation",
+      "release_sha256": "10a701b061e827754ceacd7e84da0ba94651be5e5ca62996d878edfbc9c9a056",
+      "bytes": 5106
+    },
+    {
+      "path": "weights/README.md",
+      "source": "Added during release preparation",
+      "release_sha256": "28db7cff82178fca3f46f036ff717cda08944e6a31877e7fa68d959600ea6fb9",
+      "bytes": 591
+    },
+    {
+      "path": "weights/manifest.json",
+      "source": "Added during release preparation",
+      "release_sha256": "a3b4bc8f14b94f522a1e681e0e62179b714e4ef8e79b7445e0da42a2aa83f415",
+      "bytes": 203
+    }
+  ],
+  "excluded_after_initial_selection": [
+    {
+      "path": "configs/gen_motion.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/gen_motion.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "c4e2f93d6f5fc8f6d369bc1ea1d2973e205d833fd0ac561a2b7a39d1b15175e9"
+    },
+    {
+      "path": "configs/hparams_search/mnist_optuna.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/hparams_search/mnist_optuna.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "b9f286f9dc473eb71de22c0f295cb793e834e9a3ca910231f0eaad0029b8c451"
+    },
+    {
+      "path": "configs/model/gen_temporal_lq_encoder/lq_gen.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/gen_temporal_lq_encoder/lq_gen.yaml",
+      "source_mtime_utc": "2026-02-03T18:32:41.100363+00:00",
+      "source_sha256": "2068d6638570ada5e1b6a7a03efa4cce742e62c64f9a49b4a6b198a69c6dc8d4"
+    },
+    {
+      "path": "configs/model/noise_scheduler/RDDM.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/noise_scheduler/RDDM.yaml",
+      "source_mtime_utc": "2026-02-03T08:34:10.870850+00:00",
+      "source_sha256": "86411624f7da8189fb19debb4331c7538d84c074c6d7fa05d15acc1911e23690"
+    },
+    {
+      "path": "configs/model/text_encoder/roberta.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/model/text_encoder/roberta.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "aed3dfec5a259024d97d6f7bf0a42eada497aa7f96db14b77de363f369b7b530"
+    },
+    {
+      "path": "configs/test_speed.yaml",
+      "source": "2026ICME_HiSTF_Mamba/configs/test_speed.yaml",
+      "source_mtime_utc": "2026-01-15T17:21:21+00:00",
+      "source_sha256": "bc5a2d5ed8551c4492f8a01490df3c1299b7abf34f3024443df8392a5bea0c81"
+    }
+  ]
+}

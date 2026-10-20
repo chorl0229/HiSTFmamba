@@ -1,0 +1,10 @@
+_target_: src.models.nets.light_final.LightT2M
+# Paper recipe: N=3 temporal blocks per stage, L=2 stages (6 temporal blocks).
+# This recipe is not yet linked to a verified paper checkpoint.
+num_layers: 6
+latent_dim: 512
+dropout: 0.1
+clip_dim: 512
+cond_mask_prob: 0.1
+input_dim: ${data.motion_dim}
+mamba_interval: 3
